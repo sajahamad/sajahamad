@@ -32,6 +32,10 @@ Passionate Frontend Developer focused on building responsive, user-friendly web 
 - Front-End Development Internship (120 Hours) - Zero to Hero Company
   - Completed a 120-hour training program (November 2025 – June 2026) in Front-End Development.
 
+
+- **Claude with the Anthropic API** — *Anthropic Academy* (Aug 2026)
+  - **Key Skills:** Agentic Workflows, Model Context Protocol (MCP), Prompt Caching, Tool Use, & Citations.
+  - [Verify Credential](https://verify.skilljar.com/c/7xrf3s67fpdv)
 ---
 
 ## Connect
