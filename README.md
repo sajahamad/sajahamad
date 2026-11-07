@@ -28,6 +28,16 @@
 | **Portfolio** | My personal portfolio site | React · CSS | [Live](https://saja-hamed-portfolio.vercel.app) · [Code](https://github.com/sajahamad/saja-hamed-portfolio) |
 | **Dental Clinic** | Responsive web app for a digital dental lab, with CSS animations | HTML · CSS · JS | [Code](https://github.com/sajahamad/Dental-Clinic) |
 | **Coffee Hub** | Responsive coffee shop website | HTML · CSS | [Code](https://github.com/sajahamad/Coffee-Hub-Frontend) |
+| **Rentora** 🔒 | Rental marketplace for Gaza: real estate, vehicles, equipment and event spaces, built around a trust system | React · Team project | Private · Launching soon |
+
+### 🏠 Spotlight: Rentora (private team project)
+
+A rental marketplace launching in Gaza, built with React during TAQAT's **CodeMap 2026** program. Placed **4th at a hackathon**.
+
+**My role:** Team Leader & Frontend Developer
+- Led the team (frontend, backend and UX/UI) and planned and split the work
+- Built the platform's frontend in React, turning the designer's Figma screens into responsive pages
+- Managed the codebase through pull requests and resolved merge conflicts
 
 ## Tech stack
 
