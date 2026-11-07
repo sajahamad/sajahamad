@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Saja Hamed 👋</h1>
+<h1 align="center">Hi, I'm Saja Hamed Abu Mandeel 👋</h1>
 <p align="center">
   <b>Frontend Developer · React & JavaScript · Computer Systems Engineering student</b><br/>
   I build clean, responsive web apps — and I build them for real people.
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://saja-hamed-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://www.linkedin.com/in/sajahamad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/saja-hamad-dev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/saja._hamed"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
 
@@ -54,4 +54,4 @@
 
 ---
 
-<p align="center"><i>Open to frontend internships and junior roles — let's connect on <a href="https://www.linkedin.com/in/sajahamad">LinkedIn</a>.</i></p>
+<p align="center"><i>Open to frontend internships and junior roles — let's connect on <a href="https://www.linkedin.com/in/saja-hamad-dev/">LinkedIn</a>.</i></p>
