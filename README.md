@@ -24,7 +24,7 @@
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
-| **Start It Right** | Helps Palestinian high-school graduates compare university majors with clear admission data | React · Python | [Live](https://start-it-right.vercel.app) · [Code](https://github.com/sajahamad/start-it-right) |
+| **Start It Right** | Helps Palestinian high-school graduates compare university majors with clear admission data | React · Python | [Live](https://start-it-right1.vercel.app) · [Code](https://github.com/sajahamad/start-it-right) |
 | **Portfolio** | My personal portfolio site | React · CSS | [Live](https://saja-hamed-portfolio.vercel.app) · [Code](https://github.com/sajahamad/saja-hamed-portfolio) |
 | **Dental Clinic** | Responsive web app for a digital dental lab, with CSS animations | HTML · CSS · JS | [Code](https://github.com/sajahamad/Dental-Clinic) |
 | **Coffee Hub** | Responsive coffee shop website | HTML · CSS | [Code](https://github.com/sajahamad/Coffee-Hub-Frontend) |
